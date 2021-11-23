@@ -10,7 +10,7 @@
   <img src='https://www.juanmacivico87.com/wp-content/uploads/operadores-sass.png' style='width:50px; height:50px'>
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/320px-Node.js_logo.svg.png' style='width:90px; height:50px'>
   <img src='https://www.devartisan.cl/static/media/postgreSQL.517902bf.svg' style='width:80px; height:60px'>
-  <img src='https://www.styled-components.com/atom.png' style='width:80px; height:60px;'>
+  <img src='https://www.styled-components.com/atom.png' style='width:60px; height:50px;'>
   <img src='https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25' style='width:60px; height:60px'>
  
  </div> 
